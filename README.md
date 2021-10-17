@@ -1,9 +1,9 @@
-# JARVIS V3
+# LUZIA V1
 <p align="center">
-<a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="VICHU✨️" src="https://img.shields.io/badge/LUZIA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKSHAY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-VICHU-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/sparroo/jarvis/followers"><img title="Followers" src="https://img.shields.io/github/followers/sparroo?color=blue&style=flat-square"></a>
@@ -14,7 +14,7 @@
 </p>
 </details>
 
-## THANKS TO SPARROW
+## WHATSAPP BOT⚡️
 
 # CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
@@ -25,7 +25,7 @@
 > apt update && apt upgrade
 > pkg install git
 > pkg install bash
-> git clone https://github.com/sparroo/jarvisv3
+> git clone https://github.com/Vichu00/jarvisv3
 > cd jarvis
 > bash install.sh
 > npm start
@@ -56,6 +56,6 @@
 
 # THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`SPARROW`]
+* [`VICHU`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
